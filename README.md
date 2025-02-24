@@ -1,7 +1,7 @@
 # Конкин Александр Вячеславович
 ### г. Владимир
 ***
-# <img height="150" src="https://vk.com/avkonkin?z=photo58746942_457245415%2Fphoto_feed58746942" width="100"/>
+# <img height="150" src="https://drive.google.com/file/d/1ELIq-Tlts6KDJVLj999CKapVXbz-THx8/view?usp=sharing" width="100"/>
 
 Всем привет меня зовут Александр, мне 36 лет, я живу в городе Владимире. На данный момент изучаю язык программирование Python,
 а так же прохожу обучение в Нетологии на Python-разработчик: расширенный курс.
